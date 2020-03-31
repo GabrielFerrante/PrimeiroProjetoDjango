@@ -1,0 +1,16 @@
+body{
+    background-color: crimson;
+    color: white;
+    
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+}
+table{
+    border-style: solid;
+}
